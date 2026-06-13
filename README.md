@@ -21,7 +21,7 @@ Designed to showcase hotel amenities, rooms, and services beautifully.
 4. Open `http://localhost:5173`
 
 ## 🌐 Live Demo
-Coming soon...
+[View Live Site](https://nairobi-confession.vercel.app)
 
 ## 📸 Screenshot
 Coming soon...
